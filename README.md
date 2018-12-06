@@ -12,8 +12,10 @@ Alternatively
 
 To run serial_bruteforce:
     cd serial_bruteforce && ./serial_bruteforce
+
 To run openMP_bruteforce:
     cd openMP_bruteforce && ./openMP_bruteforce
+
 To run MPI_bruteforce:
     cd MPI_bruteforce && ./MPI_bruteforce
 
